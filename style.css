@@ -57,6 +57,43 @@ CSS INDEX
 
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700,700i,900,900i|Poppins:300,400,600';
 
+.float-contact {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 99999;
+}
+.chat-zalo {
+    background: #8eb22b;
+    border-radius: 20px;
+    padding: 0 18px;
+    color: white;
+    display: block;
+    margin-bottom: 6px;
+
+    width: 120px;
+}
+.chat-face {
+    background: #125c9e;
+    border-radius: 20px;
+    padding: 0 18px;
+    color: white;
+    display: block;
+    margin-bottom: 6px;
+
+    width: 120px;
+}
+.hotline {
+    background: #d11a59!important;
+    border-radius: 20px;
+    padding: 0 18px;
+    color: white;
+    display: block;
+    margin-bottom: 6px;
+
+    width: 120px;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
@@ -1181,7 +1218,7 @@ p.error {
 
 .testimonial-area {
     background-color: #fff;
-    background-image: url("img/bg/testimonial-bg.jpg");
+    background-image: url("img/bg/testimonial-bg-copyy.jpg");
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1439,7 +1476,7 @@ a.book-now-btn:hover {
 .page-title-area {
     padding: 150px 0px;
     margin-top: 170px;
-    background-image: url(img/bg/page-bg.jpg);
+    background-image: url(img/bg/page-bg-copy.jpg);
     background-position: center center;
     background-repeat: no-repeat;
 }
