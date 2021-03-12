@@ -1458,6 +1458,7 @@ p.error {
     margin: 0;
     position: relative;
     text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     top: 4px;
 }
 a.book-now-btn {
