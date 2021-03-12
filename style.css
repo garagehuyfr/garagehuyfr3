@@ -892,6 +892,7 @@ p.error {
 
 .about-us-info p {
     margin-bottom: 30px;
+    font-family: 'Montserrat', Courier, monospace;
 }
 .about-us-img {
     overflow: hidden;
