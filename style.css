@@ -892,6 +892,7 @@ p.error {
 
 .about-us-info p {
     margin-bottom: 30px;
+    text-align: justify;
 }
 .about-us-img {
     overflow: hidden;
