@@ -23,6 +23,9 @@
     .input-box {
         margin-top: 10px;
     }
+    ul.posts li:first-child{
+        margin-top: 170px;
+    }
 }
 
 /* Normal desktop :992px. */
