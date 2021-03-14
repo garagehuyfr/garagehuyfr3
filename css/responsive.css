@@ -1,3 +1,8 @@
+@media (min-width: 1501px) {
+    ul.posts li:first-child{
+        margin-top: 170px;
+    }
+}
 @media (min-width: 992px) and (max-width: 1500px) {
     .layer-1-1 h2.title-1,
     .layer-1-2 h2.title-2,
@@ -76,6 +81,9 @@
     }
     .page-title-area {
         padding: 100px 0;
+    }
+    ul.posts li:first-child{
+        margin-top: 170px;
     }
 }
 
