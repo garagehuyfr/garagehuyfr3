@@ -102,7 +102,7 @@ body {
     font-weight: 300;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-weight: 900;
     line-height: 28px;
     text-transform: uppercase;
@@ -190,7 +190,7 @@ input[type="radio"]:focus {
 a#scrollUp {
     background-color: #ee2050;
     border: 1px solid #ee2050;
-    bottom: 90px;
+    bottom: 20px;
     color: #fff;
     font-size: 20px;
     height: 40px;
@@ -1460,7 +1460,7 @@ p.error {
     margin: 0;
     position: relative;
     text-transform: uppercase;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:"Times New Roman", Times, serif;
     top: 4px;
 }
 a.book-now-btn {
@@ -1518,7 +1518,7 @@ a.book-now-btn:hover {
 }
 .page-title h2 {
     color: #fff;
-    font-family: poppins;
+    font-family: "Times New Roman", Times, serif;
     font-size: 36px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -2437,7 +2437,7 @@ a.book-now-btn:hover {
 }
 .footer-top-title h3 {
     color: #fff;
-    font-family: poppins;
+    font-family: "Times New Roman", Times, serif;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -3438,7 +3438,7 @@ img {
     position: fixed !important;
     /* bottom: 0;
     left: 0; */
-    bottom: 190px;
+    bottom: 40px;
     right: -10px;
     z-index: 1111111;
 }
@@ -3466,7 +3466,7 @@ img {
     position: fixed;
     /* bottom: 85px;
     left: 33px; */
-    bottom: 280px;
+    bottom: 130px;
     right: 30px;
     z-index: 999999;
 }
