@@ -132,24 +132,24 @@ input[type="radio"]:focus {
     outline: none;
 }
 .section-padding {
-    padding: 120px 0px;
+    padding: 20px 0px;
 }
 .section-heading h2 {
     font-size: 36px;
     font-style: italic;
     margin-bottom: 30px;
     margin-top: 0px;
-    padding-bottom: 18px;
+    /* padding-bottom: 18px; */
     position: relative;
     text-transform: capitalize;
 }
 .section-heading.light h2 {
-    color: #fff;
+    color: red;
 }
 .section-heading h2::after {
     background-image: url("img/bg/section-border.png");
     bottom: 0;
-    content: "";
+    /* content: ""; */
     height: 3px;
     left: 0;
     position: absolute;
@@ -633,7 +633,7 @@ p.error {
 .slider-area {
     position: relative;
     padding-top: 170px;
-    padding-left: 5px;
+    padding-left: 30px;
 }
 .single-slider.slide-1,
 .single-slider.slide-2 {
@@ -3650,3 +3650,5 @@ ul.posts {
             ul.posts article header > :last-child {
                 margin-bottom: 0;
             }
+
+/*  BUTTON CHI DUONG */

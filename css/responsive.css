@@ -1,9 +1,15 @@
 @media (min-width: 1501px) {
+    .special-area{
+        display: none;
+    }
     ul.posts li:first-child{
         margin-top: 170px;
     }
 }
 @media (min-width: 992px) and (max-width: 1500px) {
+    .special-area{
+        display: none;
+    }
     .layer-1-1 h2.title-1,
     .layer-1-2 h2.title-2,
     .layer-2-1 h2.title-1,
@@ -35,6 +41,9 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
+    .special-area{
+        display: none;
+    }
     .main-menu nav ul li a {
         padding: 42px 20px;
     }
@@ -89,6 +98,9 @@
 
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
+    .special-area{
+        display: none;
+    }
     .header-top,
     .header-top-menu {
         text-align: center;
@@ -213,6 +225,9 @@
 
 /* small mobile :320px. */
 @media (max-width: 767px) {
+.special-area1{
+    display: none;
+}
 .container {width:300px}
     .mbm-50 {
         margin-bottom: 50px;
@@ -294,7 +309,7 @@
         margin-top: 10px;
     }
     .section-padding {
-        padding: 60px 0;
+        /* padding: 60px 0; */
     }
     .section-heading h2 {
         font-size: 30px;
@@ -444,6 +459,9 @@
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+    .special-area1{
+        display: none;
+    }
 .container {width:450px}
     .welcome-msg ul li p {
         font-size: 12px;
