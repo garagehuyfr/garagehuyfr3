@@ -633,7 +633,7 @@ p.error {
 .slider-area {
     position: relative;
     padding-top: 170px;
-    padding-left: 30px;
+    /* padding-left: 30px; */
 }
 .single-slider.slide-1,
 .single-slider.slide-2 {
