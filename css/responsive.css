@@ -104,6 +104,7 @@
     .header-top,
     .header-top-menu {
         text-align: center;
+        display: none;
     }
     .logo a {
         display: block;
@@ -119,7 +120,7 @@
         padding: 27px 15px;
     }
     .slider-area {
-        padding-top: 211px;
+        padding-top: 100px;
     }
     .slider-caption {
         padding-top: 40px;
@@ -238,6 +239,7 @@
     .welcome-msg {
         display: none;
     }
+
     .top-social ul li a {
         padding: 0 10px;
     }
@@ -357,7 +359,7 @@
     }
     .page-title-area {
         margin-top: 0px;
-        padding: 60px 0;
+        padding: 30px 0;
     }
     .single-blog {
         margin-bottom: 30px;
@@ -459,6 +461,9 @@
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+    .top-social{
+        display: none;
+    }
     .special-area1{
         display: none;
     }
