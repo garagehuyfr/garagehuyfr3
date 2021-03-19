@@ -226,6 +226,11 @@
 
 /* small mobile :320px. */
 @media (max-width: 767px) {
+    .header-top,
+    .header-top-menu {
+        text-align: center;
+        display: none;
+    }
 .special-area1{
     display: none;
 }
@@ -461,6 +466,11 @@
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+    .header-top,
+    .header-top-menu {
+        text-align: center;
+        display: none;
+    }
     .top-social{
         display: none;
     }
