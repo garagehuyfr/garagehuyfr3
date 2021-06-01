@@ -925,10 +925,10 @@ p.error {
 /*========================================*/
 
 .service-area {
-    background: rgba(0, 0, 0, 0) url("img/bg/services-bgcopy.png") no-repeat scroll center center;
+    background: rgba(0, 0, 0, 0) url("") no-repeat scroll center center;
 }
 .single-service {
-    margin-top: 100px;
+    margin-top: 20px;
     padding-right: 30px;
 }
 .single-service .icon-title {
